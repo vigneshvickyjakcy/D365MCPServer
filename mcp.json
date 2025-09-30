@@ -1,0 +1,9 @@
+{
+	"servers": {
+		"my-mcp-server-d68dcbab": {
+			"url": "https://devcopilotmcpserver.azurewebsites.net/api/mcp",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}
